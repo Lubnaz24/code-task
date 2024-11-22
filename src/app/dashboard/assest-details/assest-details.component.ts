@@ -20,9 +20,8 @@ export class AssestDetailsComponent {
   energyAssetItem: string = "";
   timeSeries: EnergyAssetTimeseries[] = [];
 
-  constructor(private router: Router
-    , private sharedDataService: SharedDataService)
-     {
+  constructor(private router: Router,
+    private sharedDataService: SharedDataService){
     this.energyAssetItem = this.router.getCurrentNavigation()?.extras.state?.['data'];
   }
 

@@ -10,8 +10,8 @@
     <div class="form-group">
       <input name="email" type="email" formControlName="email" placeholder="Email">
       <div *ngIf="loginForm.get('email')?.errors && loginForm.get('email')?.touched" class="error">
-        <span *ngIf="loginForm.get('email')?.hasError('required')">email is required.</span>
-        <span *ngIf="loginForm.get('email')?.hasError('minlength')">email must be at least 8 characters long.</span>
+        <span *ngIf="loginForm.get('email')?.hasError('required')">Email is required.</span>
+        <span *ngIf="loginForm.get('email')?.hasError('minlength')">Email must be at least 8 characters long.</span>
       </div>
     </div>
 

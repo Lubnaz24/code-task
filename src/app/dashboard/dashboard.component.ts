@@ -17,8 +17,8 @@ import { Router, RouterModule } from '@angular/router';
 })
 export class DashboardComponent {
   items: Item[] = [];  // Array to hold the fetched items
-  onButtonClick(hero: any){
-    this.router.navigate(['/details'], { state: { data: hero } });
+  onButtonClick(energyAssetName: any){
+    this.router.navigate(['/details'], { state: { data: energyAssetName } });
   }
   
   constructor(private http: HttpClient,
