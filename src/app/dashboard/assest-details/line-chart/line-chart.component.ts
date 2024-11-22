@@ -36,25 +36,25 @@ export class LineChartComponent implements OnInit {
     this.loadTimeseriesData();
   }
 
-  // Fetch and filter the last 48 hours of data
+  // Fetch and filter the last 1 week of data
   loadTimeseriesData(): void {
     this.sharedDataService.fetchTimeseries(this.assetName).subscribe({
       next: (data) => {
         this.timeSeriesData = data;
-        this.filterLast24Hours();
+        this.filterLast1Week();
       },
       error: (err) => console.error('Error fetching timeseries data:', err),
     });
   }
 
-  // Filter data for the last 48 hours
-  filterLast24Hours(): void {
+  // Filter data for the last 1 week
+  filterLast1Week(): void {
     const now = new Date();
-    const last48Hours = new Date(now.getTime() - 48 * 60 * 60 * 1000).getTime();
+    const last1week = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000).getTime();
 
     this.filteredData = this.timeSeriesData.filter((item) => {
       const timestamp = new Date(item.timestamp).getTime();
-      return timestamp >= last48Hours;
+      return timestamp >= last1week;
     }).map((item) => {
       // Transform the timestamp format
       return {
@@ -74,7 +74,7 @@ export class LineChartComponent implements OnInit {
 
     const options: echarts.EChartsOption = {
       title: {
-        text: 'Energy Asset Time-Series (Last 24 Hours)',
+        text: 'Energy Asset Time-Series (Last 1 week)',
         left: 'center',
       },
       tooltip: {
