@@ -1,0 +1,38 @@
+<div class="dashboard">
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <div class="logo">
+      <h3><span class="material-icons dashboard-icon">dashboard</span>Dashboard</h3>
+    </div>
+    <nav class="menu">
+      <ul>
+        <li><a href="/dashboard"><span class="material-icons custom-icon">home</span>Home</a></li>
+        <li><a href="/dashboard"><span class="material-icons custom-icon">analytics</span>Analytics</a></li>
+        <li><a href="/dashboard"><span class="material-icons custom-icon">assessment</span>Reports</a></li>
+        <li><a href="/dashboard"><span class="material-icons custom-icon">settings</span>Settings</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    <!-- Header -->
+    <header class="header">
+      <h2>Energy Assets</h2>
+      <div class="user-info">
+        <img src="https://via.placeholder.com/40" alt="User Avatar" />
+        <span>Welcome, User</span>
+      </div>
+    </header>
+
+    <!-- Widgets Section -->
+    <section class="charts">
+      <div class="chart card">
+        <ul class="list-group" *ngFor="let item of items">
+          <li class="list-group-item"><span class="material-icons custom-icon">{{ item.icon }}</span><button
+              class="transparent-btn" (click)="onButtonClick(item.name)">{{ item.name }}</button></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+</div>

@@ -1,0 +1,7 @@
+<div class="container">
+    <header class="header">
+     <h1 class="custom-header">{{this.energyAssetItem}} Energy Asset</h1>
+    </header>
+    <app-line-chart [assetName]="energyAssetItem"></app-line-chart>
+    <app-data-table [timeSeries]="timeSeries" [assetName]="energyAssetItem"></app-data-table>
+</div>

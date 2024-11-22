@@ -1,0 +1,23 @@
+<div>
+  <h1 class="margin">{{assetName}} Details</h1>
+  <table class="custom">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Asset ID</th>
+        <th scope="col">Timestamp</th>
+        <th scope="col">Active Power</th>
+        <th scope="col">Voltage</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let record of timeSeries;  let i = index">
+        <td>{{ i + 1 }}</td>
+        <td>{{ record.assetId }}</td>
+        <td>{{ record.timestamp | date: 'medium' }}</td>
+        <td>{{ record.activePower }}</td>
+        <td>{{ record.voltage }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

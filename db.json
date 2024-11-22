@@ -1,0 +1,616 @@
+{
+  "items": [
+    { "id": 1, "name": "Battery", "icon": "battery_full" },
+    { "id": 2, "name": "PV", "icon": "wb_sunny" },
+    { "id": 3, "name": "Wind", "icon": "air" }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "Admin@gmail.com",
+      "password": "password123"
+    }
+  ],
+    "PV": [
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:41:59.752079",
+        "activePower":466.92,
+        "voltage":220.59
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:59:42.752079",
+        "activePower":396.3,
+        "voltage":223.93
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:28:05.752079",
+        "activePower":368.19,
+        "voltage":222.46
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:18:59.752079",
+        "activePower":61.36,
+        "voltage":221.49
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:34:19.752079",
+        "activePower":492.62,
+        "voltage":237.59
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:18:06.752079",
+        "activePower":133.87,
+        "voltage":228.89
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:35:11.752079",
+        "activePower":83.57,
+        "voltage":238.63
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T19:00:20.752079",
+        "activePower":147.82,
+        "voltage":229.87
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:14:28.752079",
+        "activePower":181.03,
+        "voltage":229.76
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:22:52.752079",
+        "activePower":454.7,
+        "voltage":239.49
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:17:47.752079",
+        "activePower":253.59,
+        "voltage":224.45
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:59:24.752079",
+        "activePower":310.89,
+        "voltage":236.15
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:16:41.752079",
+        "activePower":226.89,
+        "voltage":231.97
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:29:37.752079",
+        "activePower":465.61,
+        "voltage":230.22
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:28:34.752079",
+        "activePower":127.23,
+        "voltage":221.82
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T19:03:36.752079",
+        "activePower":219.07,
+        "voltage":234.13
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T19:04:11.752079",
+        "activePower":266.26,
+        "voltage":222.01
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:34:14.752079",
+        "activePower":346.77,
+        "voltage":222.21
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T19:02:58.752079",
+        "activePower":199.84,
+        "voltage":228.93
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:27:47.752079",
+        "activePower":365.05,
+        "voltage":238.05
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:57:51.752079",
+        "activePower":491.49,
+        "voltage":222.85
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:30:06.752079",
+        "activePower":279.93,
+        "voltage":231.81
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:06:15.752079",
+        "activePower":485.53,
+        "voltage":232.57
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:34:18.752079",
+        "activePower":347.16,
+        "voltage":238.03
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:20:11.752079",
+        "activePower":423.86,
+        "voltage":231.2
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:12:08.752079",
+        "activePower":279.63,
+        "voltage":228.0
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:32:40.752079",
+        "activePower":293.06,
+        "voltage":228.5
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:33:56.752079",
+        "activePower":386.02,
+        "voltage":235.51
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:34:01.752079",
+        "activePower":308.43,
+        "voltage":231.25
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:33:22.752079",
+        "activePower":454.81,
+        "voltage":235.13
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:53:34.752079",
+        "activePower":65.3,
+        "voltage":233.58
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:16:11.752079",
+        "activePower":270.09,
+        "voltage":238.78
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:47:35.752079",
+        "activePower":489.35,
+        "voltage":237.82
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:59:58.752079",
+        "activePower":74.4,
+        "voltage":221.24
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:40:00.752079",
+        "activePower":152.19,
+        "voltage":221.84
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:04:55.752079",
+        "activePower":329.09,
+        "voltage":224.53
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:11:12.752079",
+        "activePower":399.54,
+        "voltage":231.02
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:40:13.752079",
+        "activePower":348.93,
+        "voltage":237.47
+      },
+      {
+        "assetId":"d0b6942d-bbe8-4092-8445-8c52c383a60b",
+        "timestamp":"2024-11-21T18:47:30.752079",
+        "activePower":295.54,
+        "voltage":237.72
+      }
+      ]
+      ,
+      "Wind": [
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:00:00Z",
+          "activePower": 420.7,
+          "voltage": 690.1
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:02:00Z",
+          "activePower": 435.2,
+          "voltage": 692.3
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:04:00Z",
+          "activePower": 418.6,
+          "voltage": 688.7
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:06:00Z",
+          "activePower": 442.8,
+          "voltage": 691.5
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:08:00Z",
+          "activePower": 430.4,
+          "voltage": 690.0
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:10:00Z",
+          "activePower": 440.1,
+          "voltage": 692.8
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:12:00Z",
+          "activePower": 423.3,
+          "voltage": 689.9
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:14:00Z",
+          "activePower": 437.9,
+          "voltage": 690.7
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:16:00Z",
+          "activePower": 425.8,
+          "voltage": 691.0
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:18:00Z",
+          "activePower": 430.6,
+          "voltage": 689.5
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:20:00Z",
+          "activePower": 429.4,
+          "voltage": 690.2
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:22:00Z",
+          "activePower": 440.0,
+          "voltage": 693.1
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:24:00Z",
+          "activePower": 422.5,
+          "voltage": 690.0
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:26:00Z",
+          "activePower": 437.0,
+          "voltage": 691.8
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:28:00Z",
+          "activePower": 421.6,
+          "voltage": 688.6
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:30:00Z",
+          "activePower": 439.5,
+          "voltage": 692.0
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:32:00Z",
+          "activePower": 433.8,
+          "voltage": 689.7
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:34:00Z",
+          "activePower": 427.1,
+          "voltage": 690.4
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:36:00Z",
+          "activePower": 428.9,
+          "voltage": 691.2
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:38:00Z",
+          "activePower": 432.0,
+          "voltage": 690.5
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:40:00Z",
+          "activePower": 438.3,
+          "voltage": 692.4
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:42:00Z",
+          "activePower": 424.7,
+          "voltage": 688.9
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:44:00Z",
+          "activePower": 436.2,
+          "voltage": 691.6
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:46:00Z",
+          "activePower": 429.0,
+          "voltage": 690.3
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:48:00Z",
+          "activePower": 431.5,
+          "voltage": 689.4
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:50:00Z",
+          "activePower": 437.4,
+          "voltage": 693.0
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:52:00Z",
+          "activePower": 422.9,
+          "voltage": 689.1
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:54:00Z",
+          "activePower": 434.1,
+          "voltage": 690.8
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:56:00Z",
+          "activePower": 428.3,
+          "voltage": 689.3
+        },
+        {
+          "assetId": "wind-asset-001",
+          "timestamp": "2024-11-21T10:58:00Z",
+          "activePower": 439.7,
+          "voltage": 692.7
+        }
+      ],
+      "Battery": [
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:00:00Z",
+          "activePower": -50.2,
+          "voltage": 480.1
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:02:00Z",
+          "activePower": -48.7,
+          "voltage": 479.8
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:04:00Z",
+          "activePower": -45.3,
+          "voltage": 481.2
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:06:00Z",
+          "activePower": -47.8,
+          "voltage": 480.6
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:08:00Z",
+          "activePower": -49.1,
+          "voltage": 480.9
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:10:00Z",
+          "activePower": -46.5,
+          "voltage": 481.0
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:12:00Z",
+          "activePower": 20.4,
+          "voltage": 482.3
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:14:00Z",
+          "activePower": 25.6,
+          "voltage": 482.0
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:16:00Z",
+          "activePower": 22.7,
+          "voltage": 481.5
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:18:00Z",
+          "activePower": 24.1,
+          "voltage": 482.1
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:20:00Z",
+          "activePower": 21.8,
+          "voltage": 481.7
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:22:00Z",
+          "activePower": -30.6,
+          "voltage": 480.8
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:24:00Z",
+          "activePower": -28.3,
+          "voltage": 479.5
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:26:00Z",
+          "activePower": -31.4,
+          "voltage": 480.0
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:28:00Z",
+          "activePower": -29.7,
+          "voltage": 480.9
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:30:00Z",
+          "activePower": -32.5,
+          "voltage": 479.9
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:32:00Z",
+          "activePower": 15.2,
+          "voltage": 482.4
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:34:00Z",
+          "activePower": 18.6,
+          "voltage": 482.8
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:36:00Z",
+          "activePower": 17.3,
+          "voltage": 482.2
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:38:00Z",
+          "activePower": 16.9,
+          "voltage": 481.6
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:40:00Z",
+          "activePower": -10.8,
+          "voltage": 480.3
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:42:00Z",
+          "activePower": -12.4,
+          "voltage": 480.6
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:44:00Z",
+          "activePower": -14.1,
+          "voltage": 480.1
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:46:00Z",
+          "activePower": -9.7,
+          "voltage": 481.0
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:48:00Z",
+          "activePower": -11.3,
+          "voltage": 480.7
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:50:00Z",
+          "activePower": -13.8,
+          "voltage": 479.8
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:52:00Z",
+          "activePower": -12.1,
+          "voltage": 480.4
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:54:00Z",
+          "activePower": -10.5,
+          "voltage": 481.2
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:56:00Z",
+          "activePower": -8.7,
+          "voltage": 480.5
+        },
+        {
+          "assetId": "battery-asset-001",
+          "timestamp": "2024-11-21T10:58:00Z",
+          "activePower": -7.9,
+          "voltage": 480.8
+        }
+      ]
+      
+}
