@@ -7,11 +7,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Clone the Repo
 
 `https://github.com/Lubnaz24/code-task`
+
+
 `cd code-task`
 
 ## Install npm packages
 
 Install the npm packages described in the package.json and verify that it works:
+
+
 Run  `npm i` for installing dependencies.
 
 ## Development server
